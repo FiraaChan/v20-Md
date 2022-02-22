@@ -45,11 +45,11 @@ kasihcaption = `Nih Kakk`
 
 // Sticker WM
 global.stiker_wait = '_*Tunggu Sebentar...*_'
-global.packname = 'YukiBot Multi device'
-global.author = 'King Of Bear'
-global.email = 'drakipul1016@gmail.com'
+global.packname = 'F I R A B O T Z'
+global.author = 'F I R A'
+global.email = 'firaachanzz@gmail.com'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wm = '©King Of Bear Bot-Md'
+global.wm = '©F I R A C A N Z'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 
 global.wait = '_*Tunggu Sebentar Sedang Di Proses...*_'
