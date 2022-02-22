@@ -1,6 +1,6 @@
 let fs = require('fs')
 
-global.owner = ['6288279268363'] // Put your number here
+global.owner = ['6283830815715'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 global.APIs = { // API Prefix
@@ -38,10 +38,10 @@ bearkey = 'https://pastelink.net/v20Md'
 ApiiKey = 'https://pastelink.net/v20Md'
 vinkey = 'vinko'
 
-namabot = 'Yuki Bot'
-namalu = 'King Of Bear'
-footer = '\n©King Of Bear'
-kasihcaption = `Nih Sayang`
+namabot = 'F I R A B O T Z'
+namalu = 'FiRaCanzZ'
+footer = '\n©Firaa'
+kasihcaption = `Nih Kakk`
 
 // Sticker WM
 global.stiker_wait = '_*Tunggu Sebentar...*_'
